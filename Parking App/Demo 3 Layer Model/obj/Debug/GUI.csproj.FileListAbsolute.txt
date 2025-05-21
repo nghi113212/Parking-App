@@ -1,0 +1,53 @@
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Demo 3 Layer Model.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Demo 3 Layer Model.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Demo 3 Layer Model.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.Properties.Resources.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo 3 Layer Model.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo 3 Layer Model.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.LoginForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\BUS.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\BUS.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\BUS.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\GUI.csproj.Up2Date
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DAO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DAO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DAO.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DTO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DTO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\DTO.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.DashBoardForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ManageVehicleForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.HomePageForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.RegisterForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\BCrypt.Net-Next.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Memory.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Buffers.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\BCrypt.Net-Next.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Memory.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\System.Buffers.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ForgetPasswordForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.PositionForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.VehicleInfoForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.BillForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ManageCustomerForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.AddUnusedCarForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ManageContractForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Xceed.Document.NET.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Xceed.Drawing.NET.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Xceed.Pdf.dll
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Xceed.Document.NET.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\bin\Debug\Xceed.Drawing.NET.xml
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ManageStaffForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.ManageWorkForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.SalaryForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.WorkLogForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.RevenueForm.resources
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\Demo 3 Layer Model\obj\Debug\Demo_3_Layer_Model.AdminForm.resources

@@ -1,0 +1,12 @@
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DAO.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DAO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DAO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DTO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DTO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\bin\Debug\DTO.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DAO\obj\Debug\DAO.csproj.ResolveComReference.cache

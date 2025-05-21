@@ -1,0 +1,7 @@
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\bin\Debug\DTO.exe.config
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\bin\Debug\DTO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\bin\Debug\DTO.pdb
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\obj\Debug\DTO.exe
+D:\Visual Studio code\WinForm Project\Demo 3 Layer Model\DTO\obj\Debug\DTO.pdb
